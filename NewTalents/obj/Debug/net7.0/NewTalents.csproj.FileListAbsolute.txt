@@ -1,0 +1,15 @@
+/home/mhoffmann/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents
+/home/mhoffmann/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.deps.json
+/home/mhoffmann/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.runtimeconfig.json
+/home/mhoffmann/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.dll
+/home/mhoffmann/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.pdb
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.csproj.AssemblyReference.cache
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.AssemblyInfoInputs.cache
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.AssemblyInfo.cs
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.dll
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/refint/NewTalents.dll
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.pdb
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.genruntimeconfig.cache
+/home/mhoffmann/NewTalents/NewTalents/obj/Debug/net7.0/ref/NewTalents.dll
